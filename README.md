@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-***PreFragment***
+***PreFragment.java***
 
 public class PreFragment extends PreferenceFragment {
 
