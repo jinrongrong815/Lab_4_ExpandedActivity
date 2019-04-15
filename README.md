@@ -7,4 +7,4 @@
 
 基本要求：实现如下两个图拼接而成的设置界面
 
-<!image src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_1q.png">
+![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_1q.png)
