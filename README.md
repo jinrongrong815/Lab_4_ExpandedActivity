@@ -7,7 +7,7 @@
 
 基本要求：实现如下两个图拼接而成的设置界面
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_1q.png)
+<image width=700 height=400 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_1q.png">
 
 # 二、关键代码
 1、
@@ -117,14 +117,14 @@ public class PreFragment extends PreferenceFragment {
 
 1、
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_1a.png)
+<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_1a.png">
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_2a.png)
+<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_2a.png">
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_3a.png)
+<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_3a.png">
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_4a.png)
+<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_4a.png">
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_5a.png)
+<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_5a.png">
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_6a.png)
+<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_6a.png">
