@@ -121,7 +121,7 @@ public class PreFragment extends PreferenceFragment {
 
 <image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_2a.png">
 
-<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_3a.png">
+<image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lan_4_3a.png">
 
 <image width=400 height=550 src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_4_4a.png">
 
